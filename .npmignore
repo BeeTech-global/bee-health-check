@@ -1,0 +1,9 @@
+.editorconfig
+.gitignore
+.eslintrc
+.travis.yml
+.env
+.codeclimate.yml
+test
+coverage
+

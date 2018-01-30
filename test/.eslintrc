@@ -1,0 +1,15 @@
+{
+  "extends": "airbnb-base",
+  "env": {
+    "mocha" : true
+  },
+  "globals": {
+    "nock": true
+  },
+  "rules": {
+    "comma-dangle": 0,
+    "newline-before-return": 2,
+    "prefer-arrow-callback": 0,
+    "func-names": 0
+  }
+}
