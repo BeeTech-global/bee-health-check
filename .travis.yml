@@ -1,0 +1,14 @@
+language: node_js
+
+node_js:
+  - "6"
+  - "7"
+  - "8"
+  - "9"
+
+script:
+  - npm run test
+  - npm run coverage
+
+#after_script:
+#  - codeclimate-test-reporter < ./coverage/lcov.info
