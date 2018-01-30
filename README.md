@@ -1,5 +1,7 @@
 # Bee Health Check
 
+[![Build Status](https://travis-ci.org/BeeTech-global/bee-health-check.svg?branch=master)](https://travis-ci.org/BeeTech-global/bee-health-check)
+
 Health check to express and restify projects
 
 ## Install
