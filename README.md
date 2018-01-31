@@ -1,5 +1,6 @@
 # Bee Health Check
-
+[![npm version](https://badge.fury.io/js/bee-health-check.svg)](https://badge.fury.io/js/bee-health-check)
+![Dependencies](https://david-dm.org/BeeTech-global/bee-health-check.svg)
 [![Build Status](https://travis-ci.org/BeeTech-global/bee-health-check.svg?branch=master)](https://travis-ci.org/BeeTech-global/bee-health-check)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/311d0d0a9d1747f6b3b5c9a18a8e4c8e)](https://www.codacy.com/app/mrprompt/bee-health-check?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BeeTech-global/bee-health-check&amp;utm_campaign=Badge_Grade)
 
