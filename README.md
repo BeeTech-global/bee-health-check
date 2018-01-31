@@ -1,5 +1,7 @@
 # Bee Health Check
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6c8707d7c6b7424c82609c937b096446)](https://www.codacy.com/app/mrprompt/bee-health-check?utm_source=github.com&utm_medium=referral&utm_content=BeeTech-global/bee-health-check&utm_campaign=badger)
+
 Health check to express and restify projects
 
 ## Install
