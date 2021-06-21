@@ -29,7 +29,7 @@
     "istanbul": "^0.4.5",
     "mocha": "^5.0.0",
     "nodemon": "^1.14.11",
-    "restify": "^6.3.4",
+    "restify": "^8.0.0",
     "supertest": "^3.0.0"
   }
 }
