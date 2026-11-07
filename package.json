@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "eslint": "^4.16.0",
-    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.8.0",
     "expect.js": "^0.3.1",
     "express": "^4.16.2",
